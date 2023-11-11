@@ -1,2 +1,2 @@
 # pml
-Practial Machine Learning Projet
+Practial Machine Learning Project
